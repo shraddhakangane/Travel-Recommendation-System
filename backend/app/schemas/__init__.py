@@ -1,0 +1,1 @@
+from app.schemas.favorite import FavoriteCreate, FavoriteResponse
